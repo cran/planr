@@ -2,7 +2,7 @@
 % Please edit documentation in R/month_to_week.R
 \name{month_to_week}
 \alias{month_to_week}
-\title{Calculates the Projected Inventories and Coverages as well as the Constrained Demand and informs a Tag about the part of the Demand already covered by the Opening Inventories}
+\title{Convert a Demand expressed in Monthly buckets into Weekly buckets}
 \usage{
 month_to_week(dataset, DFU, Period, Demand)
 }
@@ -19,7 +19,7 @@ month_to_week(dataset, DFU, Period, Demand)
 a dataframe with the Demand expressed in weekly buckets for each item
 }
 \description{
-Calculates the Projected Inventories and Coverages as well as the Constrained Demand and informs a Tag about the part of the Demand already covered by the Opening Inventories
+Convert a Demand expressed in Monthly buckets into Weekly buckets
 }
 \examples{
 month_to_week(dataset = demo_monthly_dmd, DFU, Period, Demand)

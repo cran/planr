@@ -93,7 +93,7 @@ const_dmd <- function(dataset,
 
   # We have (projected) stocks, also during the previous period
   # so no problem: we can supply
-  df1$Constrained.Demand <- if_else(df1$Projected.Inventories.Qty > 0 & df1$Lag1.PI >= 0, df1$Demand, 0)
+  df1$Constrained.Demand <- if_else(df1$Projected.Inventories.Qty >= 0 & df1$Lag1.PI >= 0, df1$Demand, 0)
 
 
 
@@ -265,6 +265,12 @@ const_dmd <- function(dataset,
 
   # replace missing by 0
   df1$Constrained.Demand <- if_else(is.na(df1$Constrained.Demand), 0, df1$Constrained.Demand)
+
+
+
+
+  # formatting
+  df1 <- as.data.frame(df1)
 
 
 

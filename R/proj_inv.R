@@ -692,6 +692,9 @@ proj_inv <- function(dataset, DFU, Period, Demand, Opening, Supply,
 
 
 
+  # formatting
+  df1 <- as.data.frame(df1)
+
 
   #-------------------------------
   # Get Results

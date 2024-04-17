@@ -1,4 +1,4 @@
-#' Calculates the Projected Inventories and Coverages as well as the Constrained Demand and informs a Tag about the part of the Demand already covered by the Opening Inventories
+#' Convert a Demand expressed in Monthly buckets into Weekly buckets
 #'
 #' @param dataset a dataframe with the demand in monthly bucket for each item
 #' @param DFU name of an item, a SKU, or a node like an item x location
@@ -205,6 +205,11 @@ month_to_week <- function(dataset,
 
 
 
+
+
+
+  # formatting
+  df1 <- as.data.frame(df1)
 
 
   #-------------------------------

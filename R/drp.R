@@ -988,6 +988,20 @@ drp <- function(dataset, DFU, Period,
   df1$DRP.Calculated.Coverage.in.Periods <- round(df1$DRP.Calculated.Coverage.in.Periods, 1)
 
 
+
+
+
+
+
+
+
+
+
+  # formatting
+  df1 <- as.data.frame(df1)
+
+
+
   #-------------------------------
   # Get Results
   #-------------------------------

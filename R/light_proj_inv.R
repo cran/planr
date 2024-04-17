@@ -457,6 +457,12 @@ light_proj_inv <- function(dataset,
 
 
 
+  # formatting
+  df1 <- as.data.frame(df1)
+
+
+
+
 
 
 
