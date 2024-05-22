@@ -1,7 +1,7 @@
-7bf46f8337c9fb966128fed221330a09 *DESCRIPTION
+7a71974c586f224f25bf906e8340da85 *DESCRIPTION
 c13cc613c6c894847beaddc995f9071e *LICENSE
 6e6129899cdf76ce8f44e12f47c07a56 *NAMESPACE
-0c7df263c337a84279b9fae846f7b2a4 *R/const_dmd.R
+fb46040af9eb5097647bc2d33bef29b2 *R/const_dmd.R
 235d0baab679576fa511e34a36ae40c8 *R/data.R
 0f6098a61fa0ecb99cbc9a65739872a2 *R/drp.R
 a26e681cbf0b3afa6dbdf4cddfe71c8a *R/light_proj_inv.R
@@ -10,7 +10,7 @@ c400f340446b03f850b14f5ce9f9b089 *R/proj_git.R
 fbf7f3457952b9493a64cae6d184febc *R/proj_inv.R
 9a0c9c660dd0380d87ee30a6ee785938 *R/ssl.R
 cf794928715019cf81bd51d467156178 *R/utils-pipe.R
-4b741822ed1b2ede42408764d262ec6a *README.md
+ca5fdb0866a11d7123fe347c0ec23542 *README.md
 f74be3173b4e4e56e006d3abfb697a53 *build/vignette.rds
 5cfc9927f57c7384ebba9fd0d1043f7f *data/blueprint.rda
 8164fc8087adc02dce6b3f72fd95fd9a *data/blueprint_drp.rda
@@ -21,10 +21,10 @@ ecb9e345da5af57b1c786cfed5b55243 *data/demo_monthly_dmd.rda
 fd6384504e7c6454f73fea35a5d7402b *data/slob.rda
 444df89344916fc0d0e3ab9a36141f97 *inst/doc/get_started.R
 9d9851dce634f17277544cfda9f1de6c *inst/doc/get_started.Rmd
-c089acf9fa5b79181e790fb962ac1081 *inst/doc/get_started.html
+42250a8c485f7557f00aac5996f10729 *inst/doc/get_started.html
 172ab4e84123be420fba27a209962d65 *inst/doc/user_cases.R
 f1c7d0471f62c68d3f26e8e20fa13a1f *inst/doc/user_cases.Rmd
-07650bbd919fedf42353499f3b95d00c *inst/doc/user_cases.html
+e73a7fdf92ba4dd4b25f0717e3c21057 *inst/doc/user_cases.html
 77ef655ad0dd79f26c5e227215993802 *man/blueprint.Rd
 732130e2bd55ed09b77d345e8c758a52 *man/blueprint_drp.Rd
 18b0b125abe8bb24215ef7bfd8baf36a *man/blueprint_light.Rd

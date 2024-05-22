@@ -104,7 +104,7 @@ const_dmd <- function(dataset,
   # We don't have enough (projected) stocks, but receive a new supply
   # we also didn't have any stocks during the previous period
   # we will use the full qty of this received supply
-  df1$Constrained.Demand <- if_else(df1$Projected.Inventories.Qty < 0 & df1$Lag1.PI < 0 & df1$Supply > 0,
+  df1$Constrained.Demand <- if_else(df1$Projected.Inventories.Qty <= 0 & df1$Lag1.PI <= 0 & df1$Supply > 0,
                                     df1$Supply,
                                     df1$Constrained.Demand)
 
@@ -160,8 +160,6 @@ const_dmd <- function(dataset,
   df1$Constrained.Demand <- if_else(df1$Projected.Inventories.Qty < 0 & df1$Lag1.PI == 0 & df1$Supply == 0 & df1$Opening > 0,
                                     df1$Opening,
                                     df1$Constrained.Demand)
-
-
 
 
 
