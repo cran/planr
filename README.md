@@ -25,7 +25,10 @@ There are currently **6 groups** of functions :
 
 -   **Calculation of Replenishment Plan** (also called DRP) : drp()
 
--   **Breakdown of Monthly Demand into Weekly Buckets** : month_to_week()
+-   **Breakdown of Monthly Demand into Weekly Buckets** :
+
+    -   **by default breakdown evenly distributed :** month_to_week()
+    -   **custom distribution :** month_to_weekx()
 
 -   **Calculation of Short Shelf Life (SSL) stocks** : ssl()
 

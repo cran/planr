@@ -1,6 +1,6 @@
 Package: planr
 Title: Tools for Supply Chain Management, Demand and Supply Planning
-Version: 0.4.1
+Version: 0.4.2
 Authors@R: 
     person("Nicolas", "Nguyen", email = "nikonguyen@yahoo.fr", role = c("aut", "cre"))
 Description: Perform flexible and quick calculations for Demand and Supply Planning, such as projected inventories and coverages, as well as replenishment plan. For any time bucket, daily, weekly or monthly, and any granularity level, product or group of products.
@@ -18,8 +18,8 @@ Suggests: highcharter, knitr, reactable, reactablefmtr, rmarkdown,
 VignetteBuilder: knitr
 Config/testthat/edition: 3
 NeedsCompilation: no
-Packaged: 2024-05-22 06:39:33 UTC; PR048069
+Packaged: 2024-09-22 10:55:16 UTC; PR048069
 Author: Nicolas Nguyen [aut, cre]
 Maintainer: Nicolas Nguyen <nikonguyen@yahoo.fr>
 Repository: CRAN
-Date/Publication: 2024-05-22 07:00:03 UTC
+Date/Publication: 2024-09-22 14:50:02 UTC
