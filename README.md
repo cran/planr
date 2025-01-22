@@ -153,6 +153,16 @@ A function to calculate a Replenishment Plan (also called DRP : Distribution Req
 
 ![](docs/monthly_to_weekly.png)
 
+> The 5bis function : **month_to_weekx()**
+
+-   Allows to **convert a Demand initially in Monthly buckets into Weekly buckets based on a custom pattern**.
+-   Useful to get a more accurate :
+    -   projection of inventories & coverages
+    -   calculation of Replenishment Plan
+-   To use it : [month_to_weekx demo](https://niconguyen.quarto.pub/planr/month_to_weekx.html)
+
+![](docs/distribution_patterns.png)
+
 ### Short Shelf Life (SSL)
 
 > The 6th function : **ssl()**

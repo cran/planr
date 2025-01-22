@@ -1,9 +1,9 @@
-e5e6e115bf051f1e48683edffa71d01b *DESCRIPTION
+ffe3baa48dd97845befde7ce2effdc4e *DESCRIPTION
 c13cc613c6c894847beaddc995f9071e *LICENSE
 31349b3afce7d75396e0cf0882550bf2 *NAMESPACE
 fb46040af9eb5097647bc2d33bef29b2 *R/const_dmd.R
 235d0baab679576fa511e34a36ae40c8 *R/data.R
-0f6098a61fa0ecb99cbc9a65739872a2 *R/drp.R
+c47487b25778076b59f886ee9fed3ba0 *R/drp.R
 a26e681cbf0b3afa6dbdf4cddfe71c8a *R/light_proj_inv.R
 f67aa3c4343dd8a756931b3af73b8bbf *R/month_to_week.R
 8ed46c1339cd540f92e1bfb469ae2a1f *R/month_to_weekx.R
@@ -11,8 +11,8 @@ c400f340446b03f850b14f5ce9f9b089 *R/proj_git.R
 fbf7f3457952b9493a64cae6d184febc *R/proj_inv.R
 9a0c9c660dd0380d87ee30a6ee785938 *R/ssl.R
 cf794928715019cf81bd51d467156178 *R/utils-pipe.R
-067cfd591f447cef328a18d1547663a0 *README.md
-f74be3173b4e4e56e006d3abfb697a53 *build/vignette.rds
+bf7210b0448b80272c0c031a11b23aa6 *README.md
+859dc969d1a2eaae28681fa97a11f94d *build/vignette.rds
 5cfc9927f57c7384ebba9fd0d1043f7f *data/blueprint.rda
 8164fc8087adc02dce6b3f72fd95fd9a *data/blueprint_drp.rda
 ce298655f738d887f9125e1103c8262c *data/blueprint_light.rda
@@ -22,10 +22,10 @@ ecb9e345da5af57b1c786cfed5b55243 *data/demo_monthly_dmd.rda
 fd6384504e7c6454f73fea35a5d7402b *data/slob.rda
 444df89344916fc0d0e3ab9a36141f97 *inst/doc/get_started.R
 9d9851dce634f17277544cfda9f1de6c *inst/doc/get_started.Rmd
-ca58d67a2c866bfb027fe0b56a73cee4 *inst/doc/get_started.html
+40fadeaaf085004520563ce8e6f5ebcc *inst/doc/get_started.html
 172ab4e84123be420fba27a209962d65 *inst/doc/user_cases.R
 f1c7d0471f62c68d3f26e8e20fa13a1f *inst/doc/user_cases.Rmd
-4ff07f411ed7c93debb0c84a7b0436f2 *inst/doc/user_cases.html
+3cd8381bc6402359c7e966eb45e937fb *inst/doc/user_cases.html
 77ef655ad0dd79f26c5e227215993802 *man/blueprint.Rd
 732130e2bd55ed09b77d345e8c758a52 *man/blueprint_drp.Rd
 18b0b125abe8bb24215ef7bfd8baf36a *man/blueprint_light.Rd
@@ -33,7 +33,7 @@ f1c7d0471f62c68d3f26e8e20fa13a1f *inst/doc/user_cases.Rmd
 2b6e68b225f5014d197ff5b078b77c40 *man/demo_const_dmd.Rd
 c5bddf0ae38bfd009c8b4343f3ebd441 *man/demo_in_transit.Rd
 5ba191b77f7a2a5e85b748d190149db9 *man/demo_monthly_dmd.Rd
-f5e217001d991d1037778970f83eb6c7 *man/drp.Rd
+ec90b4c39bc2f20d8b4d035e9e2904ea *man/drp.Rd
 d8e0ad6bdf9b826e7779a5f95c80d944 *man/figures/logo.png
 95ec604ed52c4826692c2fb28c8d16db *man/light_proj_inv.Rd
 ad338fef61ccc5b696153a89edca2f84 *man/month_to_week.Rd
@@ -45,7 +45,7 @@ ad338fef61ccc5b696153a89edca2f84 *man/month_to_week.Rd
 905f47f335d50a22354335380957d394 *man/ssl.Rd
 89107285ee44a06efdc6ac1be80f1f54 *tests/testthat.R
 3c6a5bbf989665232bdfac99a8fcc04b *tests/testthat/test-const_dmd.R
-a6dbf744731628a0f4e37463165a00cd *tests/testthat/test-drp.R
+dc2b07338db4a0bc97eb96ecb9a0cb2f *tests/testthat/test-drp.R
 d16b173d2d34373326b1e9ead25b258b *tests/testthat/test-light_proj_inv.R
 b84cebc6963ec649ff57af7d99b8642a *tests/testthat/test-month_to_week.R
 e9d0872268fe200d1a1fece5d19f7957 *tests/testthat/test-month_to_weekx.R
