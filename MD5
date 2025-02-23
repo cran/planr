@@ -1,4 +1,4 @@
-ffe3baa48dd97845befde7ce2effdc4e *DESCRIPTION
+101266999f43d4e6fdd2fac145065544 *DESCRIPTION
 c13cc613c6c894847beaddc995f9071e *LICENSE
 31349b3afce7d75396e0cf0882550bf2 *NAMESPACE
 fb46040af9eb5097647bc2d33bef29b2 *R/const_dmd.R
@@ -8,7 +8,7 @@ a26e681cbf0b3afa6dbdf4cddfe71c8a *R/light_proj_inv.R
 f67aa3c4343dd8a756931b3af73b8bbf *R/month_to_week.R
 8ed46c1339cd540f92e1bfb469ae2a1f *R/month_to_weekx.R
 c400f340446b03f850b14f5ce9f9b089 *R/proj_git.R
-fbf7f3457952b9493a64cae6d184febc *R/proj_inv.R
+d6d04200d93d10f6ce8249c2d47c939b *R/proj_inv.R
 9a0c9c660dd0380d87ee30a6ee785938 *R/ssl.R
 cf794928715019cf81bd51d467156178 *R/utils-pipe.R
 bf7210b0448b80272c0c031a11b23aa6 *README.md
@@ -22,10 +22,10 @@ ecb9e345da5af57b1c786cfed5b55243 *data/demo_monthly_dmd.rda
 fd6384504e7c6454f73fea35a5d7402b *data/slob.rda
 444df89344916fc0d0e3ab9a36141f97 *inst/doc/get_started.R
 9d9851dce634f17277544cfda9f1de6c *inst/doc/get_started.Rmd
-40fadeaaf085004520563ce8e6f5ebcc *inst/doc/get_started.html
+e7318fe153ed5f7c32dd9553d59ab0e9 *inst/doc/get_started.html
 172ab4e84123be420fba27a209962d65 *inst/doc/user_cases.R
 f1c7d0471f62c68d3f26e8e20fa13a1f *inst/doc/user_cases.Rmd
-3cd8381bc6402359c7e966eb45e937fb *inst/doc/user_cases.html
+82d6e1c74c36ae682e3b2c8a73b5d958 *inst/doc/user_cases.html
 77ef655ad0dd79f26c5e227215993802 *man/blueprint.Rd
 732130e2bd55ed09b77d345e8c758a52 *man/blueprint_drp.Rd
 18b0b125abe8bb24215ef7bfd8baf36a *man/blueprint_light.Rd
@@ -50,7 +50,7 @@ d16b173d2d34373326b1e9ead25b258b *tests/testthat/test-light_proj_inv.R
 b84cebc6963ec649ff57af7d99b8642a *tests/testthat/test-month_to_week.R
 e9d0872268fe200d1a1fece5d19f7957 *tests/testthat/test-month_to_weekx.R
 5eed3195be5bd25711873d8d7c514bd8 *tests/testthat/test-proj_git.R
-fb63b404c4a84c3662cf00bb8ed2a13e *tests/testthat/test-proj_inv.R
+5a979c38f9d3ed24d3f99f5e2af9f3f1 *tests/testthat/test-proj_inv.R
 29702afdd464c428573b268c57d0a852 *tests/testthat/test-ssl.R
 9d9851dce634f17277544cfda9f1de6c *vignettes/get_started.Rmd
 f1c7d0471f62c68d3f26e8e20fa13a1f *vignettes/user_cases.Rmd
