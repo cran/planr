@@ -1,7 +1,7 @@
-e4e3ccfb7d4081dbdcf89f574892f2f4 *DESCRIPTION
+485ca4ef12451480af0da3799ea0a4f7 *DESCRIPTION
 c13cc613c6c894847beaddc995f9071e *LICENSE
 ccc5e7c6be4a161fbe9cd17dfc5cb00f *NAMESPACE
-a8f6e937881a14e9606d428169e77820 *R/alloc_dmd.R
+306cb337ff7769d25546c50370675a4b *R/alloc_dmd.R
 fb46040af9eb5097647bc2d33bef29b2 *R/const_dmd.R
 34143cc40d3ee33e770f0d7ed025cc6d *R/data.R
 c47487b25778076b59f886ee9fed3ba0 *R/drp.R
@@ -12,7 +12,7 @@ c400f340446b03f850b14f5ce9f9b089 *R/proj_git.R
 d6d04200d93d10f6ce8249c2d47c939b *R/proj_inv.R
 9a0c9c660dd0380d87ee30a6ee785938 *R/ssl.R
 cf794928715019cf81bd51d467156178 *R/utils-pipe.R
-ac4fe17183af0ecf828fac664d19cc37 *README.md
+f64cf0fd5845fdd1e61001dacc4ab43f *README.md
 859dc969d1a2eaae28681fa97a11f94d *build/vignette.rds
 c28a5732662f7bc2c7ab241636882f15 *data/alloc_data.rda
 5cfc9927f57c7384ebba9fd0d1043f7f *data/blueprint.rda
@@ -24,10 +24,10 @@ ecb9e345da5af57b1c786cfed5b55243 *data/demo_monthly_dmd.rda
 fd6384504e7c6454f73fea35a5d7402b *data/slob.rda
 444df89344916fc0d0e3ab9a36141f97 *inst/doc/get_started.R
 9d9851dce634f17277544cfda9f1de6c *inst/doc/get_started.Rmd
-05c570bfac75f06fa4287d71b59636da *inst/doc/get_started.html
+6da3bc5908ddc1c07c96b8c9c401b774 *inst/doc/get_started.html
 172ab4e84123be420fba27a209962d65 *inst/doc/user_cases.R
 f1c7d0471f62c68d3f26e8e20fa13a1f *inst/doc/user_cases.Rmd
-355b5acf3da1696338688511d67b988b *inst/doc/user_cases.html
+c3f8e865fb31c858833af97ae74f263e *inst/doc/user_cases.html
 a2654e10af37e9e6f7c7a67dfb3b2169 *man/alloc_data.Rd
 91cad01f593360f267c5643312357f0b *man/alloc_dmd.Rd
 77ef655ad0dd79f26c5e227215993802 *man/blueprint.Rd
