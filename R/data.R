@@ -228,6 +228,26 @@ NULL
 
 
 
+#' cov_vol_data
+#'
+#' This dataset contains the basic features to convert a coverage expressed in periods into a coverage expressed in units
+#' We can apply on it the cov_vol() function, it will return the related coverage in units
+#'
+#' \itemize{
+#'   \item DFU, an item
+#'   \item Period, a date
+#'   \item Demand, a consumption in units
+#'   \item Coverage the targeted coverage that we want to convert, expressed in number of periods
+#'
+#' }
+#'
+#'
+#' @name cov_vol_data
+#' @usage data(cov_vol_data)
+#' @docType data
+#' @author Nicolas Nguyen \email{nikonguyen@yahoo.fr}
+#' @format A data frame with 520 rows and 4 variables
+NULL
 
 
 

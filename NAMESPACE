@@ -3,6 +3,7 @@
 export("%>%")
 export(alloc_dmd)
 export(const_dmd)
+export(cov_vol)
 export(drp)
 export(light_proj_inv)
 export(month_to_week)
