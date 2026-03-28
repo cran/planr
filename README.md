@@ -13,29 +13,31 @@
 The R package **planr** is for **Supply Chain Management**.\
 The goal is to provide some **functions to perform quickly** some classic operations in the scope of **Demand and Supply Planning** or to **run the S&OP** (Sales & Operations Planning) **process**.
 
-There are currently **6 groups** of functions :
+There are currently **7 groups** of functions :
 
 -   **Calculation of projected inventories & coverages :**
 
-    -   **simple calculation :** light_proj_inv()
+    -   **simple calculation :** `light_proj_inv()`
 
-    -   **calculation & analysis :** proj_inv()
+    -   **calculation & analysis :** `proj_inv()`
 
 -   **Calculation of projected inventories & constrained demand and allocation:**
 
-    -   **calculation of constrained demand :** const_dmd()
-    -   **allocation of a constrained demand :** alloc_dmd()
+    -   **calculation of constrained demand :** `const_dmd()`
+    -   **allocation of a constrained demand :** `alloc_dmd()`
 
--   **Calculation of Replenishment Plan** (also called DRP) : drp()
+-   **Calculation of Replenishment Plan** (also called DRP) : `drp()`
 
 -   **Breakdown of Monthly Demand into Weekly Buckets** :
 
-    -   **by default breakdown evenly distributed :** month_to_week()
-    -   **custom distribution :** month_to_weekx()
+    -   **by default breakdown evenly distributed :** `month_to_week()`
+    -   **custom distribution :** `month_to_weekx()`
 
--   **Calculation of Short Shelf Life (SSL) stocks** : ssl()
+-   **Calculation of Short Shelf Life (SSL) stocks** : `ssl()`
 
--   **Projection of In Transit inventories** : proj_git()
+-   **Projection of In Transit inventories** : `proj_git()`
+
+-   **Conversion of coverages into volumes** : `proj_cov()`
 
 Calculations are performed at monthly or weekly buckets.
 

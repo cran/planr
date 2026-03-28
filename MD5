@@ -1,4 +1,4 @@
-209e7e18875f42f7408e7018a17009d2 *DESCRIPTION
+9ab2c0254d042995109228eddb6fed81 *DESCRIPTION
 c13cc613c6c894847beaddc995f9071e *LICENSE
 a27da6d843dd9fdcb7d786ef8d422cb7 *NAMESPACE
 306cb337ff7769d25546c50370675a4b *R/alloc_dmd.R
@@ -13,8 +13,8 @@ c400f340446b03f850b14f5ce9f9b089 *R/proj_git.R
 d6d04200d93d10f6ce8249c2d47c939b *R/proj_inv.R
 9a0c9c660dd0380d87ee30a6ee785938 *R/ssl.R
 cf794928715019cf81bd51d467156178 *R/utils-pipe.R
-f64cf0fd5845fdd1e61001dacc4ab43f *README.md
-859dc969d1a2eaae28681fa97a11f94d *build/vignette.rds
+96eb6b9ee356fb4a4b6b4d4e24352505 *README.md
+a0d361a174705acbbb3539a946eed02a *build/vignette.rds
 c28a5732662f7bc2c7ab241636882f15 *data/alloc_data.rda
 5cfc9927f57c7384ebba9fd0d1043f7f *data/blueprint.rda
 8164fc8087adc02dce6b3f72fd95fd9a *data/blueprint_drp.rda
@@ -24,12 +24,12 @@ a57f58cc3f51636550c88a52f7d7b6cb *data/demo_const_dmd.rda
 e0e1fabd5c6d34d192e6184164bfd364 *data/demo_in_transit.rda
 ecb9e345da5af57b1c786cfed5b55243 *data/demo_monthly_dmd.rda
 fd6384504e7c6454f73fea35a5d7402b *data/slob.rda
-444df89344916fc0d0e3ab9a36141f97 *inst/doc/get_started.R
-9d9851dce634f17277544cfda9f1de6c *inst/doc/get_started.Rmd
-9c243002063c2573fe5ccfca17206e80 *inst/doc/get_started.html
-172ab4e84123be420fba27a209962d65 *inst/doc/user_cases.R
-f1c7d0471f62c68d3f26e8e20fa13a1f *inst/doc/user_cases.Rmd
-1efc29e3aa2f2fb5c36378ed4dcdf20c *inst/doc/user_cases.html
+201e91e646dc2d0d2cba27d23a5c39cd *inst/doc/get_started.R
+94aa830a46cbe9a37f5f275fc96fee8a *inst/doc/get_started.Rmd
+3c5b4d6b00c0e5fc94a1640b18720bd1 *inst/doc/get_started.html
+201e91e646dc2d0d2cba27d23a5c39cd *inst/doc/user_cases.R
+2629c932e7fc27347d708998a99f8e9b *inst/doc/user_cases.Rmd
+55c0c82191f6c210a9a0e9b4edc4f1da *inst/doc/user_cases.html
 a2654e10af37e9e6f7c7a67dfb3b2169 *man/alloc_data.Rd
 91cad01f593360f267c5643312357f0b *man/alloc_dmd.Rd
 77ef655ad0dd79f26c5e227215993802 *man/blueprint.Rd
@@ -62,5 +62,5 @@ e9d0872268fe200d1a1fece5d19f7957 *tests/testthat/test-month_to_weekx.R
 5eed3195be5bd25711873d8d7c514bd8 *tests/testthat/test-proj_git.R
 5a979c38f9d3ed24d3f99f5e2af9f3f1 *tests/testthat/test-proj_inv.R
 29702afdd464c428573b268c57d0a852 *tests/testthat/test-ssl.R
-9d9851dce634f17277544cfda9f1de6c *vignettes/get_started.Rmd
-f1c7d0471f62c68d3f26e8e20fa13a1f *vignettes/user_cases.Rmd
+94aa830a46cbe9a37f5f275fc96fee8a *vignettes/get_started.Rmd
+2629c932e7fc27347d708998a99f8e9b *vignettes/user_cases.Rmd
